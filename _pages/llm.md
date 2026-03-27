@@ -30,7 +30,7 @@ Chris Davis is an engineering professional (2019-2026) who has worked with vario
   "work_summary": "Worked with various startups across many industries building data pipelines and testing infrastructure.",
   "contact": {
     "email": "chdavis@bu.edu",
-    "github": "https://github.com/cdaviis",
+    "github": "https://github.com/cdavis",
     "linkedin": "https://www.linkedin.com/in/cdaviis",
     "x": "https://x.com/cdaviiis"
   }
